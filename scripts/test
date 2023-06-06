@@ -1,0 +1,3 @@
+#!/bin/sh
+
+go test github.com/meow-io/heya/... -v -timeout 30s
