@@ -2,6 +2,10 @@
 
 A communication protocol & server for sending and receiving messages.
 
+## 🚧 Under Construction 🚧
+
+This project is still under active development and shouldn't be relied on to be stable until it is marked as v1.
+
 ## Goals
 
 * Support binary data
